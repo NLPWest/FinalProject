@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 import java.util.Random;
 
-public class roulette {
+public class Roulette {
 	
 	public static void roulette() {
 	// TODO Auto-generated method stub
