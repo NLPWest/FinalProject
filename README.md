@@ -1,5 +1,5 @@
 
-# Casino Games
+# The Casino
 
 # Table of Contents
 - Our Goal
