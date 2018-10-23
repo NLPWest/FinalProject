@@ -5,6 +5,7 @@
 - Our Goal
 - Our Games
 - Instructions for games
+- Video Link
 
 
 # Our Goal
@@ -14,7 +15,6 @@
 - BlackJack
 - Roulette
 - Slot Machine
--Video Link
 
 # Instructions for games
 
