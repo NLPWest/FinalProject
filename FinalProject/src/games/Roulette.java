@@ -6,6 +6,10 @@ import main.Wallet;
 public class Roulette {
 
 
+
+
+public class Roulette {
+
 	
 	public static void roulette() {
 		
