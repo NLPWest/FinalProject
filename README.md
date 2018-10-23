@@ -8,7 +8,7 @@
 
 
 # Our Goal
-- Our goal was to create a program that had 3 games and acted like a casino. There is a wallet class that keeps track of your money.
+- Our goal was to create a program that had 3 games and acted like a casino. There is a wallet class that keeps track of your money and you are allowed to bet so you can make and lose money.
 
 # Our Games
 - BlackJack
