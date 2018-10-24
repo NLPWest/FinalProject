@@ -32,4 +32,4 @@ Slots : After the player bets, three numbers between 1 and 7 are selected random
 The player is then asked if they would like to play again. If they say yes, they are prompted again on which game they'd like to play, or if they say no, the program stops entirely.
 
 # Video Link :
-https://www.youtube.com/watch?v=0Ky27Jz_dvY
+<a href = "https://www.youtube.com/watch?v=0Ky27Jz_dvY">youtubelink</a>
