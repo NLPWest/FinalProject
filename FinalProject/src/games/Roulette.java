@@ -43,14 +43,14 @@ public class Roulette {
 		
 		if(numberChoice == computerSecret) {
 			result = "" + computerSecret;
-			System.out.println("You win! It was " + computerSecret);
+			System.out.println("You win! It was " + computerSecret + "!");
 		}
 			else if(numberChoice != computerSecret) {
 				result = "" + computerSecret;
-				System.out.println("You lost! It was " + computerSecret);
+				System.out.println("You lost! It was " + computerSecret + "!");
 			}
 				else if(numberChoice > 36) {
-					System.out.println("Invalid number entered");
+					System.out.println("Invalid number entered.");
 			}
 			}
 			else if(userChoice == 2) {
