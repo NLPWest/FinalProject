@@ -1,6 +1,6 @@
 
 # The Casino
-
+<img src="Final Project Flowchart (1).png" height = "400" width ="400">
 # Table of Contents
 - Our Goal
 - Our Games
