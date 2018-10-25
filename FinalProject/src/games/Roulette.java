@@ -104,10 +104,10 @@ public class Roulette {
 			System.out.println("\nYou lost " + bet + " dollars.");
 		}
 		else if(colorChoice == 1 && computerSecret % 2 == 0) {
-			System.out.println("\nYou won " + winnings + " dollars.");
+			System.out.println("\nYou lost " + bet + " dollars.");
 		}
 		else if(colorChoice == 2 && computerSecret % 2 != 0) {
-				System.out.println("\nYou won " + winnings + " dollars.");
+				System.out.println("\nYou lost " + bet + " dollars.");
 			//The player is given the amount of money stored in the wallet.
 			}
 				Wallet.endMoney(bet, winnings, endMoney);
